@@ -1,0 +1,5 @@
+0-59 * * * * curl http://malikmal98.my.id/public/insert/9/34/43/54/29 
+0-59 * * * * curl http://malikmal98.my.id/public/insert/10/34/43/54/29 
+0 0,3,6,9,12,15,18,21 * * * curl http://malikmal98.my.id/public/recap 
+0-59 * * * * curl http://malikmal98.my.id/public/insert/9/39/47/58/39 
+0-59 * * * * curl http://malikmal98.my.id/public/insert/10/32/49/58/21 
