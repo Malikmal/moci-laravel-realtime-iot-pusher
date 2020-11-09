@@ -1,5 +1,5 @@
 # moci-laravel-realtime-iot-pusher
-lecturer project, for NodeMCU code see here
+lecturer project
 ```Rekaya Perangkat Lunak (2019-2020)```
 D4 Computer Engineering - PENS (EEPIS)
 
