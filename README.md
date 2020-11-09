@@ -13,11 +13,6 @@ https://intip.in/MociSE2020
 ![Banner moci-laravel-realtime-iot-pusher](https://lh3.googleusercontent.com/vz6X3ttzYiHYeKmOsNmk3Zr2p6SzWoiha0LeU2QRoynGx9qD98zNAynCOVe4NuYJB39c5bdikH3aXXjneRe2=w1366-h624-rw)
 
 # Guide Book
-![Manual Book moci-laravel-realtime-iot-pusher](https://drive.google.com/file/d/1PGA9I6jjfHlrFNV4rfOG0yjVa5Wi1uMw/preview)
-![Manual Book moci-laravel-realtime-iot-pusher](blob:https://drive.google.com/0856fc8d-c433-4057-b645-6273d5afef55)
 
-
-| Main Page |
-|:-:|
-| <img src ="https://drive.google.com/file/d/1PGA9I6jjfHlrFNV4rfOG0yjVa5Wi1uMw/preview" width="190" height="340"/> |
-| [`MainActivity.java`](https://drive.google.com/file/d/1PGA9I6jjfHlrFNV4rfOG0yjVa5Wi1uMw/preview) |
+{google_docs}https://drive.google.com/file/d/1PGA9I6jjfHlrFNV4rfOG0yjVa5Wi1uMw/preview{/google_docs}
+{google_docs}blob:https://drive.google.com/0856fc8d-c433-4057-b645-6273d5afef55{/google_docs}
