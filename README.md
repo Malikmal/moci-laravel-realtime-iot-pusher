@@ -21,3 +21,7 @@ https://drive.google.com/file/d/1PGA9I6jjfHlrFNV4rfOG0yjVa5Wi1uMw/preview
 
 # Archive File Documentation
 https://intip.in/MociSE2020
+
+# Software Expo
+my team at [04:07](https://youtu.be/Y-ViZkInAQg?t=247) minutes
+[![Watch the video](https://img.youtube.com/vi/Y-ViZkInAQg/maxresdefault.jpg)](https://youtu.be/Y-ViZkInAQg?t=247)
